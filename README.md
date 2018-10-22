@@ -21,3 +21,6 @@ The aim of this project is to develop a model which can identify the authenticit
                         python Hierarchical_Test.py                   
  </pre>          
 
+<b>Team Members</b>
+1. Pratham Gupta
+2. Rajat Sharma
